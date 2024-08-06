@@ -3,7 +3,7 @@ tiny shakespeare trained on llama3 architecture, inspired by Andrej's nanogpt
 
 
 
-model.py result:
+# model.py result:
 
 Train data size: 304220
 Validation data size: 33803
@@ -74,7 +74,7 @@ HASTINGS:
 My husband have done what
 
 
-decoder-model.py result: 
+# decoder-model.py result: 
 
 Train data size: 304220
 Validation data size: 33803
@@ -153,6 +153,43 @@ A serpent that will sting thee to the heart.
 HENRY BOLINGBROKE:
 My gracious uncle--to save my life,
 My lord, I know your virtue.
+
+# generative.py result: 
+
+Original context from validation set:
+
+
+KATHARINA:
+Call you me daughter? now, I promise you
+You have show'd a tender fatherly regard,
+To wish me wed to one half lunatic;
+A mad-cup ruffian and a swearing Jack,
+That thinks with oaths to face the matter out.
+
+PETRUCHIO:
+Father, 'tis thus: yourself and all the world,
+That talk'd of her, have talk'd amiss of her
+
+Generated continuation:
+ eye
+As Paris hath in Sicilia.
+
+LUCIO:
+Hark, cast you up.
+I'll so you have:
+And so am I, surely, for't not seen.
+Wherein you have mista traitors?
+
+Shepherd:
+Prithee, son, do; for we must be gentle
+ tied unto need we on.
+
+Shepherd:
+How
+FLORIZEL:
+Your brother is so resolved you straight
+
+
 
 DUKE OF YORK:
 What is't, Margaret?
