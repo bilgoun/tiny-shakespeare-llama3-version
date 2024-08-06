@@ -18,7 +18,7 @@ step 3500: train loss 0.1024, val loss 7.7466
 step 4000: train loss 0.0950, val loss 7.9106
 step 4500: train loss 0.0911, val loss 8.0755
 step 4999: train loss 0.0874, val loss 8.2400
-!
+
 
 BUCKINGHAM:
 With what a sharp-provided wit he reasons!
