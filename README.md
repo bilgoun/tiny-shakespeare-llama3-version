@@ -7,6 +7,8 @@ result: the classic overfit
 
 Train data size: 304220
 Validation data size: 33803
+
+
 step 0: train loss 10.9447, val loss 10.9467
 step 500: train loss 3.0509, val loss 4.6209
 step 1000: train loss 0.8079, val loss 5.9131
