@@ -246,7 +246,6 @@ class Transformer(nn.Module):
         output = self.output(h).float()
         return output
 
-    # ... (keep the generate method as it is)
 
     def generate(self, idx, max_new_tokens, temperature=1.0, top_k=None):
         for _ in range(max_new_tokens):
